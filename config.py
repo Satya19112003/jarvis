@@ -1,1 +1,3 @@
+OPENAI_API_KEY = "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"
+USER_NAME = None
 
